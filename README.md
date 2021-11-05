@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CiprianCornea
-- 👀 I’m interested in Java, OOP
-- 🌱 I’m currently learning Java JDBC, Java Swing
+- 👀 I’m interested in Angular, TypeScript, HTML and Web Development
+- 🌱 I’m currently learning Angular, JavaScript and React
 - 📫 How to reach me cipri.cornea@outlook.com
 
 <!---
